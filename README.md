@@ -1,4 +1,4 @@
-# 🚀 n8n Learning Repository
+# 🚀 Friendly n8n
 
 A beginner-friendly, hands-on repository for learning **n8n workflow automation** from the ground up.
 
