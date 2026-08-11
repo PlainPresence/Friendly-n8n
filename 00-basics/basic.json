@@ -1,0 +1,77 @@
+{
+  "name": "My workflow",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "36d2c6c4-9e88-43f2-afa9-d0002235da7b",
+      "name": "When clicking ‘Execute workflow’"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "84eddd9f-6171-4be3-a0ec-f634187c3a91",
+              "name": "Name",
+              "value": "Alice",
+              "type": "string"
+            },
+            {
+              "id": "0b22876c-2065-4fce-8887-d2184cdc5935",
+              "name": "age ",
+              "value": "20",
+              "type": "string"
+            },
+            {
+              "id": "00a7f2bb-2397-4f82-befb-6210f08b424b",
+              "name": "course ",
+              "value": "Computer Science",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.5,
+      "position": [
+        224,
+        0
+      ],
+      "id": "55d3e4b5-611d-4490-a902-7a8b7f3113c6",
+      "name": "Edit Fields"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When clicking ‘Execute workflow’": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "0dae79a0-df84-47b3-91ed-3e2ee52dfdf2",
+  "meta": {
+    "instanceId": "d333d2b2994801d5ef12e36e487cb48120d855e6df2101fc20250092ba448d2d"
+  },
+  "nodeGroups": [],
+  "id": "urwZotAQ5NV5FQYN",
+  "tags": []
+}
