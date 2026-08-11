@@ -10,6 +10,16 @@ Every level introduces a concept, explains it, and then gives you workflows and 
 
 ---
 
+## 💙 Support the Project
+
+If **Friendly n8n** helps you learn automation, you can support the project:
+
+**[💙 Support Me](https://www.thankyouverymuch.co/plainpresence)**
+
+Your support helps keep the tutorials, workflows, examples, and challenges coming. 🙌
+
+---
+
 ## 🧭 Learning Roadmap
 
 ```text
@@ -76,14 +86,14 @@ You'll learn the fundamentals before touching complicated automations.
 
 # 📚 Levels
 
-| Level | Topic | Status |
-| --- | --- | --- |
-| 🟢 00 | n8n Basics | 🚧 In Progress |
+| Level | Topic                | Status         |
+| ----- | -------------------- | -------------- |
+| 🟢 00 | n8n Basics           | 🚧 In Progress |
 | 🔵 01 | Beginner Automations | 🔒 Coming Soon |
-| 🟡 02 | APIs & Data | 🔒 Coming Soon |
+| 🟡 02 | APIs & Data          | 🔒 Coming Soon |
 | 🟠 03 | Business Automations | 🔒 Coming Soon |
-| 🔴 04 | AI Automations | 🔒 Coming Soon |
-| ⚫ 05 | Production | 🔒 Coming Soon |
+| 🔴 04 | AI Automations       | 🔒 Coming Soon |
+| ⚫ 05  | Production           | 🔒 Coming Soon |
 
 ---
 
@@ -235,9 +245,9 @@ Private credentials
 
 Use:
 
-- n8n Credentials
-- Environment variables
-- Placeholder values
+* n8n Credentials
+* Environment variables
+* Placeholder values
 
 For example:
 
@@ -263,11 +273,11 @@ Feel free to contribute.
 
 Good contributions should:
 
-- Explain what the workflow teaches
-- Include setup instructions
-- Avoid real credentials
-- Be beginner-friendly
-- Include expected input/output where useful
+* Explain what the workflow teaches
+* Include setup instructions
+* Avoid real credentials
+* Be beginner-friendly
+* Include expected input/output where useful
 
 ---
 
