@@ -24,35 +24,35 @@ n8n Learning
 │   ├── Data flow
 │   └── Expressions
 │
-├── 🔵 01 — Beginner Automations
+├── 🔵 01 — Beginner Automations (WIP)
 │   ├── Webhooks
 │   ├── Discord
 │   ├── Google Sheets
 │   ├── Email
 │   └── Scheduled workflows
 │
-├── 🟡 02 — APIs & Data
+├── 🟡 02 — APIs & Data (WIP)
 │   ├── HTTP requests
 │   ├── REST APIs
 │   ├── JSON manipulation
 │   ├── Authentication
 │   └── Error handling
 │
-├── 🟠 03 — Business Automations
+├── 🟠 03 — Business Automations (WIP)
 │   ├── Lead capture
 │   ├── Lead notifications
 │   ├── CRM automation
 │   ├── Appointment reminders
 │   └── Customer workflows
 │
-├── 🔴 04 — AI Automations
+├── 🔴 04 — AI Automations (WIP)
 │   ├── AI nodes
 │   ├── AI agents
 │   ├── Structured output
 │   ├── Document processing
 │   └── AI-powered business workflows
 │
-└── ⚫ 05 — Production
+└── ⚫ 05 — Production (WIP)
     ├── Credentials
     ├── Security
     ├── Logging
