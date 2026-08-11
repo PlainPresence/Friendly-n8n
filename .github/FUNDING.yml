@@ -10,4 +10,6 @@ lfx_crowdfunding:
 polar:
 buy_me_a_coffee:
 thanks_dev:
-custom: ['https://www.buymeachai.in/plainpresence']
+custom: ['https://www.thankyouverymuch.co/plainpresence']
+custom: 'https://www.thankyouverymuch.co/plainpresence'
+custom: https://www.thankyouverymuch.co/plainpresence
