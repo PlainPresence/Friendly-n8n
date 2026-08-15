@@ -10,16 +10,6 @@ Every level introduces a concept, explains it, and then gives you workflows and 
 
 ---
 
-## 💙 Support the Project
-
-If **Friendly n8n** helps you learn automation, you can support the project:
-
-**[💙 Support Me](https://www.thankyouverymuch.co/plainpresence)**
-
-Your support helps keep the tutorials, workflows, examples, and challenges coming. 🙌
-
----
-
 ## 🧭 Learning Roadmap
 
 ```text
