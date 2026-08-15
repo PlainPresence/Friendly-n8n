@@ -78,7 +78,7 @@ You'll learn the fundamentals before touching complicated automations.
 
 | Level | Topic                | Status         |
 | ----- | -------------------- | -------------- |
-| 🟢 00 | n8n Basics           | 🚧 In Progress |
+| 🟢 00 | n8n Basics           | 🟢 Published|
 | 🔵 01 | Beginner Automations | 🔒 Coming Soon |
 | 🟡 02 | APIs & Data          | 🔒 Coming Soon |
 | 🟠 03 | Business Automations | 🔒 Coming Soon |
